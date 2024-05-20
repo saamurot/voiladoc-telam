@@ -23,8 +23,19 @@
     "@nestjs/common": "^10.0.0",
     "@nestjs/core": "^10.0.0",
     "@nestjs/platform-express": "^10.0.0",
+    "aes256": "^1.1.0",
+    "axios": "^1.6.8",
+    "base58": "^2.0.1",
+    "bn.js": "^5.2.1",
+    "bs58": "^5.0.0",
+    "crypto": "^1.0.1",
+    "crypto-browserify": "^3.12.0",
+    "crypto-js": "^4.2.0",
+    "elliptic": "^6.4.0",
     "reflect-metadata": "^0.1.13",
-    "rxjs": "^7.8.1"
+    "rxjs": "^7.8.1",
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1"
   },
   "devDependencies": {
     "@nestjs/cli": "^10.0.0",
